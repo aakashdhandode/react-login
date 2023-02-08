@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "aa",
+      "name": "bb",
+      "password": "12345",
+      "email": "aa@gmail.com",
+      "phone": "1234567890",
+      "country": "india",
+      "address": "zxcvzxcv",
+      "gender": "male"
+    }
+  ]
+}
